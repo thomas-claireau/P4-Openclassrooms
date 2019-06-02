@@ -17,6 +17,7 @@ ExpressFood a besoin que vous conceviez sa base de données. Il s'agit de stocke
 * La liste des livreurs, avec leur statut (libre, en cours de livraison) et leur position
 * La liste des commandes passées
 * ...
+
 Pour structurer votre réflexion vous utiliserez UML et construirez une suite de diagrammes afin de modéliser les besoins de l’application et le diagramme de classe pour modéliser les entités de l'application. Une fois que les diagrammes vous satisferont, vous réaliserez le schéma de base de données MySQL correspondant puis vous remplirez la base avec des premières valeurs fictives.
 
 Vous veillerez à produire des schémas UML cohérents par rapport au cahier des charges et respectant les standards UML. Vous concevrez ensuite un schéma de base de données SQL adéquat.
@@ -32,22 +33,22 @@ Schémas demandés :
 
 Commentaire de l'évaluateur :
 
-** Avis sur les livrables : ** 
+**Avis sur les livrables :** 
 Les diagrammes sont très fournis et clairs. L'ensemble des livrables répondent aux besoins du client. La gestion des livraisons est très bien réalisée.
 
-** Avis sur la présentation : ** 
+**Avis sur la présentation :** 
 L'oral est clair et de qualité. Le contexte est bien rappelé et dans l'ensemble le client est très bien guidé tout au long de la présentation, bravo.
 
-** Avis sur la compréhension et la réalisation du projet :** 
+**Avis sur la compréhension et la réalisation du projet :** 
 Les besoins du client sont bien compris dans l'ensemble. Les différents cas d'utilisations sont très bien réalisés et les conditions alternatives sur les séquences très pertinentes. Il aurait été intéressant de ne pas borner le rendu à 2 plats + 2 desserts afin d'anticiper un développement futur.
 
-** Points positifs : ** 
+**Points positifs :** 
 * Des diagrammes de qualité
 * Une base de donnée pertinente
 * Bonne gestion des stocks et de la géolocalisation
 * Bons choix des types de champs dans les tables
 
-** Axes d'amélioration : ** 
+**Axes d'amélioration :** 
 * Ne pas limiter le développement potentiel de l'activité du client avec le modèle de données (PlatJour et DessertJour).
 * Attention au vocabulaire parfois un peu hésitant entre "table", "base de donnée", "attributs"
 * Attention à la gestion du temps. Il y a beaucoup à montrer pour peu de temps, il faut travailler l'efficacité du discours pour tout placer.
