@@ -58,3 +58,5 @@ Dans l'ensemble c'est du très bon travail, bravo pour ce rendu et bonne continu
 ### 🎬 Cliquez sur l'image ci-dessous pour voir la vidéo de soutenance 👇
 
 [![Regarder la vidéo de soutenance](https://img.youtube.com/vi/oXxi36d0ymQ/maxresdefault.jpg)](https://youtu.be/oXxi36d0ymQ)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oXxi36d0ymQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
