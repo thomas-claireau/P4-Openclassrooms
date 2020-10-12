@@ -54,7 +54,3 @@ Les besoins du client sont bien compris dans l'ensemble. Les différents cas d'u
 * Attention à la gestion du temps. Il y a beaucoup à montrer pour peu de temps, il faut travailler l'efficacité du discours pour tout placer.
 
 Dans l'ensemble c'est du très bon travail, bravo pour ce rendu et bonne continuation !
-
-### 🎬 Cliquez sur l'image ci-dessous pour voir la vidéo de soutenance 👇
-
-[![Regarder la vidéo de soutenance](https://img.youtube.com/vi/oXxi36d0ymQ/maxresdefault.jpg)](https://youtu.be/oXxi36d0ymQ)
